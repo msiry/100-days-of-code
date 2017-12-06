@@ -7,4 +7,4 @@
 **Thoughts** I found out about this challenge via a Medium article this morning, and I am intrigued!
 
 **Link(s) to work**
-
+Link a photo with a dead hyperlink https://www.freecodecamp.org/challenges/turn-an-image-into-a-link
