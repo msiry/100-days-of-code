@@ -8,4 +8,4 @@
 
 **Link(s) to work:**
 
- **Link a photo with a dead hyperlink [https://www.freecodecamp.org/challenges/turn-an-image-into-a-link]
+ Link a photo with a dead hyperlink [https://www.freecodecamp.org/challenges/turn-an-image-into-a-link]
