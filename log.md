@@ -40,3 +40,24 @@
 **Link(s) to work:**
 
   1. Use jQuery to Modify the Entire Page https://www.freecodecamp.org/challenges/use-jquery-to-modify-the-entire-page
+  
+  ### Day 5: December 11th, Sunday
+
+**Today's Progress**: Figured out who I want to do a tribute page for, Sun Tzu, so I banged out 95% of that.
+
+**Thoughts** I did a lot of trial and error with the page.  Looked at a lot of bootstrap code from the BS site itself, ran into a few issues working with Descriptive links, so that I wound up just going with an unstyled list.
+
+**Link(s) to work:**
+
+1. none today
+
+  ### Day 6: December 12th, Monday
+
+**Today's Progress**: Finished up my Tribute Page project, started on Odin Project lessons
+
+**Thoughts** So I finished up my tribute page this morning, however, I went to go look at the next challenge on FCC, and realized that I am in no way ready to tackle that project just yet.  I am a bit overwhelmed by everything that I need to include in the project, so I am going to start work on the odin project site, and go through all of the web fundamentals to give me a better understanding of what I need to do.
+
+**Link(s) to work:**
+
+1. Tribute Page [https://codepen.io/msiry/pen/GyKKPp]
+
