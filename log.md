@@ -53,9 +53,9 @@
 
   ### Day 6: December 12th, Monday
 
-**Today's Progress**: Finished up my Tribute Page project, started on Odin Project lessons
+**Today's Progress**: Finished up my Tribute Page project, started on Odin Project lessons. 
 
-**Thoughts** So I finished up my tribute page this morning, however, I went to go look at the next challenge on FCC, and realized that I am in no way ready to tackle that project just yet.  I am a bit overwhelmed by everything that I need to include in the project, so I am going to start work on the odin project site, and go through all of the web fundamentals to give me a better understanding of what I need to do.
+**Thoughts** So I finished up my tribute page this morning, however, I went to go look at the next challenge on FCC, and realized that I am in no way ready to tackle that project just yet.  I am a bit overwhelmed by everything that I need to include in the project, so I am going to start work on the odin project site, and go through all of the web fundamentals to give me a better understanding of what I need to do.  Odin Project is extremely intensive, and I am genuinely excited to start working in the applications.  Got up to the cmd line basics portion of the lesson.
 
 **Link(s) to work:**
 
