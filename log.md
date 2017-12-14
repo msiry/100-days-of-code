@@ -61,3 +61,24 @@
 
 1. Tribute Page [https://codepen.io/msiry/pen/GyKKPp]
 
+  ### Day 7: December 13th, Tuesday
+
+**Today's Progress**: Worked on an hour worth of command line basics from codeacademy. 
+
+**Thoughts** Actually getting the hang of working within terminal on my mac, the codeacademy course is really helpful
+
+**Link(s) to work:**
+
+1. None to share today
+
+  ### Day 8: December 14th, Wednesday
+
+**Today's Progress**: Finished up my command line course in codeacademy, started with the installations needed to run The Odin Project.
+
+**Thoughts** Completed a lot of installs and testing for the odin project.  Launched my first test app within Heroku.
+Deleted it after to clean up my files. Made up for some time from yesterday as well.
+
+
+**Link(s) to work:** Finished this entire process http://installfest.railsbridge.org/installfest/
+
+1. 
