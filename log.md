@@ -11,7 +11,7 @@
   1. Link a photo with a dead hyperlink https://www.freecodecamp.org/challenges/turn-an-image-into-a-link 
   2. Use spans for inline elements https://www.freecodecamp.org/challenges/use-spans-for-inline-elements
 
-### Day 2: December 8th, Thursday
+### Day 2: December 7th, Thursday
 
 **Today's Progress**: After going through 69 lessons yesterday, I worked through another 26 today.
 
@@ -21,7 +21,7 @@
 
   1. Target HTML Elements with Selectors using jQuery https://www.freecodecamp.org/challenges/target-html-elements-with-selectors-using-jquery 
 
-### Day 3: December 9th, Friday
+### Day 3: December 8th, Friday
 
 **Today's Progress**: Was only able to get about 30 minutes done today, got super busy with work, and car issues.
 
@@ -31,7 +31,7 @@
 
 1. nothing to really share today.
 
-### Day 4: December 10th, Saturday
+### Day 4: December 9th, Saturday
 
 **Today's Progress**: Finished all of the jQuery tutorials on freeCodeCamp, and started up on my tribute project.
 
@@ -41,7 +41,7 @@
 
   1. Use jQuery to Modify the Entire Page https://www.freecodecamp.org/challenges/use-jquery-to-modify-the-entire-page
   
-  ### Day 5: December 11th, Sunday
+  ### Day 5: December 10th, Sunday
 
 **Today's Progress**: Figured out who I want to do a tribute page for, Sun Tzu, so I banged out 95% of that.
 
@@ -51,7 +51,7 @@
 
 1. none today
 
-  ### Day 6: December 12th, Monday
+  ### Day 6: December 11th, Monday
 
 **Today's Progress**: Finished up my Tribute Page project, started on Odin Project lessons. 
 
@@ -61,7 +61,7 @@
 
 1. Tribute Page [https://codepen.io/msiry/pen/GyKKPp]
 
-  ### Day 7: December 13th, Tuesday
+  ### Day 7: December 12th, Tuesday
 
 **Today's Progress**: Worked on an hour worth of command line basics from codeacademy. 
 
@@ -69,9 +69,10 @@
 
 **Link(s) to work:**
 
+
 1. None to share today
 
-  ### Day 8: December 14th, Wednesday
+  ### Day 8: December 13th, Wednesday
 
 **Today's Progress**: Finished up my command line course in codeacademy, started with the installations needed to run The Odin Project.
 
@@ -81,4 +82,23 @@ Deleted it after to clean up my files. Made up for some time from yesterday as w
 
 **Link(s) to work:** Finished this entire process http://installfest.railsbridge.org/installfest/
 
+### Day 9: December 14th, Thursday
+
+**Today's Progress**: Started work on the Git section of The Odin Project.
+
+**Thoughts** Was able to get Git and GitHub installed on my desktop, also went through some review material provided from The Odin Project site.  Was only able to complete 30 minutes today, will makeup time for tomorrow.
+
+
+**Link(s) to work:** 
+1. none today
+
+### Day 10: December 15th, Friday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+
+**Link(s) to work:** 
 1. 
+
