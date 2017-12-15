@@ -94,11 +94,10 @@ Deleted it after to clean up my files. Made up for some time from yesterday as w
 
 ### Day 10: December 15th, Friday
 
-**Today's Progress**: 
+**Today's Progress**: Finished all of the git basics on The Odin Project, and created my first git_repository within github, than used Git within the terminal to create, add, commit, and push up to Github
 
-**Thoughts** 
-
+**Thoughts** I'm going to continue learning about Git as the time passes, but I am feeling sort of confident with all of the information I have learned so far within Git and Github.
 
 **Link(s) to work:** 
-1. 
+1. My first repository https://github.com/msiry/git_test
 
