@@ -101,3 +101,29 @@ Deleted it after to clean up my files. Made up for some time from yesterday as w
 **Link(s) to work:** 
 1. My first repository https://github.com/msiry/git_test
 
+### Day 11: December 18th, Monday
+
+**Today's Progress**: Well, I didn't get a chance to get anything done this past weekend, due to a sick child, so I am making up my hours for the week.  Was able to get a good amount of the first part of the front end development section done within the Mozilla Basics.
+
+**Thoughts** The more and more I learn the basics of each of the programming languages, the beter graspe I get on things.
+
+**Link(s) to work:** 
+1. none today.
+
+### Day 12: December 19th, Tuesday
+
+**Today's Progress**: Continued working on the Front End portion of The Odin Project.
+
+**Thoughts** Started on the codeacademy HTML/CSS Course, also, I started on my portfolio site.
+
+**Link(s) to work:** 
+none today.
+
+### Day 13: December 20th, Wednesday
+
+**Today's Progress**: Finished off the codeacademy Learn HTML course, and learned about setting up tables.
+
+**Thoughts** I am starting to make some progress on my portfolio site with some of the code I am learning from the HTML course.
+
+**Link(s) to work:** 
+none today.
