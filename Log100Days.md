@@ -1,3 +1,6 @@
+#
+Template
+
 ### Day #: Date, Day
 
 **Today's Progress**: 
@@ -7,8 +10,7 @@
 **Link(s) to work:**
 
   1.
-
-
+#
 
 # 100 Days Of Code - Log
 
